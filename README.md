@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Durga Prasad
+- 👋 Hi, I’m
 - 👀 I’m interested in ...Photgraphy, Editing, graphics designing 
 - 🌱 I’m currently learning ...Electrical Engineering and also Java and Python
 - 💞️ I’m looking to collaborate on ...photgraphy and editing
-- 📫 How to reach me ...through email:-durgaprasadece77@gmail.com 
+- 📫 How to reach me ...through email:
 
 <!---
 thewanderlust77/thewanderlust77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
