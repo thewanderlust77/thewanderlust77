@@ -1,4 +1,4 @@
-- 👋 Hi, I’m
+- 👋 Hi, I’m Durga Prasad Routray
 - 👀 I’m interested in ...Photgraphy, Editing, graphics designing 
 - 🌱 I’m currently learning ...Electrical Engineering and also Java and Python
 - 💞️ I’m looking to collaborate on ...photgraphy and editing
